@@ -23,6 +23,5 @@ function iLoveBeatles(n){//*initialization*
     arrayA.push('I love Beatles!');
     n++;//*iteration*
   } while (n < 15);//*condition*
-
- return arrayA;
+  return arrayA;
 }
